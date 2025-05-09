@@ -1,0 +1,5 @@
+Pick A Drink!; 0
+Large Coke RM3.00; 3.00
+Small Coke RM1.50; 1.50
+Large Fanta RM3.00; 3.00
+Small Fanta RM1.50; 1.50

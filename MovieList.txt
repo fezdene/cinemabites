@@ -1,0 +1,6 @@
+; ; 0; 0; 0; null; null; null; null
+Midsommar; 18; 5.00; 3.00; 64; CW-02-05; 9:00PM; Midsommar.jpg; 22/05/25 
+Doctor Strange; 12A; 7.00; 5.00; 64; CW-01-01; 9:00PM; Doctor_Strange.jpg; 22/05/25
+Moana; PG; 7.00; 5.00; 64; CW1-01-05; 9:00PM; Moana.jpg; 22/05/25
+Logan; 12A; 5.00; 3.00; 64; CW-02-04; 9:00PM; Logan.jpg; 22/05/25
+Mufasa The Lion King; PG; 5.00; 3.00; 64; CW-02-05; 9:00PM; Lion-King.jpeg; 22/05/25 
